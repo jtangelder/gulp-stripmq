@@ -4,4 +4,4 @@ gulp-stripmq
 Strip mediaqueries from your CSS
 
 
-# Busy writing code, waiting for first commit :-)
+# I'm busy writing code, first commit will come tomorrow!
