@@ -1,7 +1,4 @@
 gulp-stripmq
 ============
 
-Strip mediaqueries from your CSS
-
-
-# I'm busy writing code, first commit will come tomorrow!
+Strip mediaqueries from your CSS. Source might now work yet :-)
