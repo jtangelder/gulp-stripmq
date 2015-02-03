@@ -25,6 +25,7 @@
     "css-parse": "~1.7.0",
     "css-mediaquery": "~0.1.2",
     "css-stringify": "~1.4.1",
+    "event-stream": "~3.2.2"
     "gulp-util": "~2.2.14",
     "gulp": "~3.5.1"
   }
