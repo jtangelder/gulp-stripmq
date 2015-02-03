@@ -1,6 +1,6 @@
 {
   "name": "gulp-stripmq",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Strip mediaqueries from your CSS",
   "main": "index.js",
   "scripts": {
